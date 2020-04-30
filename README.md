@@ -1,12 +1,12 @@
 # Laravel Axios Multipul File Upload
 
-##Version
+## Version
 <ul>
 <li>Laravel Version 7.x</li>
 <li>Axios Version 0.19.2</li>
 </ul>
 
-##Features
+## Features
 <ul>
 <li>Ajax Multipul File Upload</li>
 <li>File Uploading Progress</li>
@@ -14,8 +14,8 @@
 <li>File Upload Details</li>
 </ul>
 
-##Preview
-<img width="600px" src="https://github.com/rupomsoft/Laravel-Axios-Multipul-File-Uploader/blob/master/Preview.png"/>
+## Preview
+<img width="800px" src="https://github.com/rupomsoft/Laravel-Axios-Multipul-File-Uploader/blob/master/Preview.png"/>
 
 ## License
 
