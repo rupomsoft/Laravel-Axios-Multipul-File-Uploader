@@ -15,7 +15,7 @@
 </ul>
 
 ####Preview
-<img width="70%" src="https://github.com/rupomsoft/Laravel-Axios-Multipul-File-Uploader/Preview.png"/>
+<img width="400px" src="https://github.com/rupomsoft/Laravel-Axios-Multipul-File-Uploader/blob/master/Preview.png"/>
 
 ## License
 
