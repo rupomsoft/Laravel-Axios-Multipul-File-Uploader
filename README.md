@@ -14,6 +14,12 @@
 <li>File Upload Details</li>
 </ul>
 
+### Installation 
+First<br>
+``` Composer Install ``` 
+<br>Then <br>
+``` npm install ```
+
 ### Preview
 <img width="100%" src="https://github.com/rupomsoft/Laravel-Axios-Multipul-File-Uploader/blob/master/Preview.png"/>
 
