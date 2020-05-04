@@ -15,9 +15,8 @@
 </ul>
 
 ### Installation 
-First<br>
 ``` Composer Install ``` 
-<br>Then <br>
+<br><br>
 ``` npm install ```
 
 ### Preview
